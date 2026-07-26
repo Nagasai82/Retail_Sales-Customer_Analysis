@@ -80,3 +80,4 @@ retail-sales-analysis/
 ## Author
 NAGA SAI KRISHNA MAKALA
 Retail Sales & Customer Analysis Project demonstrating SQL Server, Python, Power BI, and business reporting skills.
+Feel free to connect or reach out if you have questions about this project.
