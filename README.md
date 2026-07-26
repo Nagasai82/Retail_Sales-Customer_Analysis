@@ -2,6 +2,9 @@
 
 End-to-end retail sales and customer analysis project using **SQL Server**, **Python (Pandas)**, and **Power BI**. Extracted, cleaned, and analyzed 6,000+ retail transactions across 300 customers and 26 products to uncover regional sales trends, high-value customers, and category-level performance — visualized through an interactive Power BI dashboard.
 
+
+<img width="606" height="338" alt="Screenshot 2026-07-27 000238" src="https://github.com/user-attachments/assets/ba29e1f5-8dc8-47c3-8bf8-52662a14a4d0" />
+
 ## Project Overview
 
 This project follows a complete analytics workflow, from raw transactional data to a business-ready dashboard:
@@ -72,8 +75,6 @@ retail-sales-analysis/
    jupyter notebook notebooks/eda.ipynb
    ```
 3. **Power BI:** Open `powerbi/retail_dashboard.pbix` in Power BI Desktop to explore the interactive dashboard.
-
-<img width="606" height="338" alt="Screenshot 2026-07-27 000238" src="https://github.com/user-attachments/assets/ba29e1f5-8dc8-47c3-8bf8-52662a14a4d0" />
 
 
 ## Author
