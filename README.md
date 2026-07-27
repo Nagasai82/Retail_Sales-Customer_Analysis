@@ -3,7 +3,8 @@
 End-to-end retail sales and customer analysis project using **SQL Server**, **Python (Pandas)**, and **Power BI**. Extracted, cleaned, and analyzed 6,000+ retail transactions across 300 customers and 26 products to uncover regional sales trends, high-value customers, and category-level performance — visualized through an interactive Power BI dashboard.
 
 
-<img width="606" height="338" alt="Screenshot 2026-07-27 000238" src="https://github.com/user-attachments/assets/ba29e1f5-8dc8-47c3-8bf8-52662a14a4d0" />
+<img width="607" height="340" alt="Screenshot 2026-07-27 112851" src="https://github.com/user-attachments/assets/4ae99e8d-2019-42dd-93cd-355728c61617" />
+
 
 ## Project Overview
 
